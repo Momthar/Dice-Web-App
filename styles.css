@@ -1,0 +1,30 @@
+body{
+    background-color: #393E46;
+    color:#4ECCA3;
+}
+.container{
+
+    width:70%;
+    margin:auto;
+    text-align: center;
+}
+h1{
+    font-size: 80px;
+}
+p{
+    font-size: 30px;
+}
+.footer-p{
+    font-size: 18px;
+    text-align: center;
+    margin-top:5%;
+    color:#ffff;
+}
+.dice1,.dice2{
+    display: inline-block;
+    margin-right:20px;
+    margin-bottom:30px;
+}
+img{
+    width:80%;
+}
